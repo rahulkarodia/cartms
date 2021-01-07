@@ -1,0 +1,16 @@
+com\assessment\order\OrderApplication.class
+com\assessment\order\client\ProductValidationClient.class
+com\assessment\order\model\Product.class
+com\assessment\order\client\ProductValidationFallback.class
+com\assessment\order\client\TokenAuthorizationClient.class
+com\assessment\order\audit\stream\StreamConfig.class
+com\assessment\order\model\Cart.class
+com\assessment\order\request\CartRequestFilter.class
+com\assessment\order\controller\OrderController.class
+com\assessment\order\service\AuthService.class
+com\assessment\order\service\AuditService.class
+com\assessment\order\service\CartService.class
+com\assessment\order\repository\CartDAO.class
+com\assessment\order\audit\stream\AuditStream.class
+com\assessment\order\client\TokenAuthorizationFallback.class
+com\assessment\order\request\CartSecurityConfig.class
